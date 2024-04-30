@@ -11,3 +11,4 @@ Nuestro objetivo fue presentar una imagen lo más didáctica posible para un pú
 
 Como anécdota adicional, este concurso significo usar por primera vez python a través de jupyter notebook y aprender todo lo que conlleva en tan solo una semana literalmente, debido a que en la universidad solo se usaba Fortran90 y nadie usaba python para la época.  
 
+Premiación del concurso: https://fb.watch/rMeE4Jhpg3/
